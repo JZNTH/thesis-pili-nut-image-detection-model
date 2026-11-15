@@ -1,0 +1,8 @@
+path: C:\Users\Danver Dawn\Documents\cnnModelV2\dataset_split
+train: images/train
+val: images/val
+
+names:
+  0: PILI 1
+  1: PILI 2
+  2: PILI 3
